@@ -1,0 +1,8 @@
+001
+-Inital Release.
+-Semi tested, basic functionality.
+-no backlight control.
+-Speed input may not be from amplifier.
+
+002
+-Introduction of serial transmition of data.
