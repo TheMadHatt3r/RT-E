@@ -1,0 +1,13 @@
+FlowMeter	KEYWORD1
+flowUpdate	KEYWORD2
+incPulseCnt	KEYWORD2
+clearSessionCnt	KEYWORD2
+IncPulseCnt	KEYWORD2
+pulse_count_total	KEYWORD2
+pulse_count_session	KEYWORD2
+pulse_count_cnt		KEYWORD2
+fuel_consumption_rate	KEYWORD2
+fuel_consumption_rate_comp	KEYWORD2
+fuel_temperture_c	KEYWORD2
+
+

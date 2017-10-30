@@ -1,0 +1,8 @@
+SpeedMeter	KEYWORD1
+incPulseCnt	KEYWORD2
+speedUpdate	KEYWORD2
+clearSessionCnt	KEYWORD2
+pulse_count_session	KEYWORD2
+pulse_count_cnt		KEYWORD2
+speed_mph		KEYWORD2
+speed_kmh		KEYWORD2

@@ -1,0 +1,10 @@
+RTE_Serial	KEYWORD1
+rx_buffer	KEYWORD2
+valid_data	KEYWORD2
+readNewData	KEYWORD2
+crc8	KEYWORD2
+sendACK	KEYWORD2
+sendNAK	KEYWORD2
+getAndValadateCommand	KEYWORD2
+peek				KEYWORD2
+transmitDataSmall 	KEYWORD2

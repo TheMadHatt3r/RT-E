@@ -1,0 +1,6 @@
+FlowLog		KEYWORD1
+
+initLogging	KEYWORD2
+endLogging	KEYWORD2
+writeToLog	KEYWORD2
+logging_en	KEYWORD2

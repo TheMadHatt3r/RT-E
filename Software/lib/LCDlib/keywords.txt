@@ -1,0 +1,15 @@
+LCDlib	KEYWORD1
+clear	KEYWORD2
+home	KEYWORD2
+write_text	KEYWORD2
+write_int	KEYWORD2
+write_ulong	KEYWORD2
+write_tm	KEYWORD2
+write_float2	KEYWORD2
+write_float1	KEYWORD2
+goto_xy		KEYWORD2
+backlight	KEYWORD2
+contrast	KEYWORD2
+bkLightOn	KEYWORD2
+bkLightOff	KEYWORD2
+init		KEYWORD2

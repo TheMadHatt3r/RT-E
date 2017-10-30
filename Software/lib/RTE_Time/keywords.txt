@@ -1,0 +1,11 @@
+RTE_Time		KEYWORD1
+time_adj_reg_hh		KEYWORD2
+time_adj_reg_mm		KEYWORD2
+time_update_needed	KEYWORD2
+incHr			KEYWORD2
+incMin			KEYWORD2
+performRTCUpdate	KEYWORD2
+getTimeForFileName	KEYWORD2
+getDateForLCD		KEYWORD2
+getTimeForLCD		KEYWORD2
+leadingDigits		KEYWORD2
